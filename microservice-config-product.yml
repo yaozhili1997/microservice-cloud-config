@@ -36,7 +36,7 @@ eureka:
     prefer-ip-address: true 
     
 emp:
-name: yaozhili
+  name: yaozhili
 ---
 server:
   port: 8001
